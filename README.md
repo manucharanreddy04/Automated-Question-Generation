@@ -107,5 +107,7 @@ This project helps educators, e-learning platforms, and exam creators quickly pr
   Deploy as a web app via Flask or Streamlit
   Add difficulty control
 
+Manu Charan Reddy
 
+🔗 GitHub: https://github.com/manucharanreddy04 💼 LinkedIn: https://www.linkedin.com/in/manucharanreddy-kandimalla-64b473373/
   
